@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: ea717b7b99334754e849f08599fe1608
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Diffusion
+  fontNames:
+  - Diffusion
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e5e35620f29e7b04ba9303cf93d992a2, type: 3}
+  - {fileID: 12800000, guid: 8e589f813bf3a7648b5de640f3b3bd4f, type: 3}
+  - {fileID: 12800000, guid: 429744124ce35c94f8809d17a5ad7001, type: 3}
+  - {fileID: 12800000, guid: 8c9e9915079499a45a3a3dba33401371, type: 3}
+  - {fileID: 12800000, guid: 5efede454102b8742a061a7f6b0e92e9, type: 3}
+  - {fileID: 12800000, guid: 934b2cc674139614dbbd0c8f49a86cfa, type: 3}
+  - {fileID: 12800000, guid: 21c9ac4af99fdea4eafda530eb1d59ef, type: 3}
+  - {fileID: 12800000, guid: 3986781cb61090a4bb14b7afd206068f, type: 3}
+  - {fileID: 12800000, guid: e08a483d43b0b8a4dbed0ef1c85e3ed2, type: 3}
+  - {fileID: 12800000, guid: 0091006d4f08c5c49975022e2d042de1, type: 3}
+  - {fileID: 12800000, guid: 805982bead8c2384aaea16e4d8b6443c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
